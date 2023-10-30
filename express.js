@@ -1,9 +1,7 @@
-//Test File
 const express = require("express");
-
-// const { clog } = require('./middleware/clog');
 const routes = require("./routes");
 
+//Heroku Server port
 const PORT = process.env.PORT || 3001;
 
 const app = express();

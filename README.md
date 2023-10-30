@@ -2,6 +2,8 @@
 
 By Shane Mindreau
 
+Deployed App With Heroku: [Note Taking App](https://client-note-taker-8f0324283dcf.herokuapp.com/)
+
 ## Description
 
 This is an app that allows a user to write and save their note in entries. They can then delete specific entries with just a click if it's no longer needed.This application uses Node npm express package.
